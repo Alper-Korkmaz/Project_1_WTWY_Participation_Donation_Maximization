@@ -1,1 +1,1 @@
-# Project_1_WTWY_Participation_Donation_Maximization_2
+# Project_1_WTWY_Participation_Donation_Maximization
